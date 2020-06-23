@@ -20,7 +20,6 @@ mod_caption += "`🔰Database Status: Databases functioning normally!\n\n`"
 mod_caption += f"`🔰Python: {python_version()}\n\n`"
 mod_caption += "`🔰Always with you, my master!\n\n`"
 mod_caption += f"`🔰Owner Name`:   {DEFAULTUSER}\n\n\n"
-mod_caption += "`🔰Bot was modified by:*Insane*
 mod_caption += "[DEPLOY MODIFIED FRIDAY](https://github.com/vwo53/FRIDAY)"
 
 
