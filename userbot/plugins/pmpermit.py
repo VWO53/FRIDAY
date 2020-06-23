@@ -19,7 +19,7 @@ USER_BOT_NO_WARN = ("`Hello ! Dear This is My Master\n"
                     "**You Have Trespassed To My Boss\n"
                     f"{DEFAULTUSER}'s Inbox**\n\n"
                     "**This is Illegal And Regarded As A Crime ☣️**\n"
-                    "**Now You Are In Trouble So Send** 🔥 `/start` 🔥  **To Start A Valid Conversation!!**")
+                    "**Now You Are In Trouble So Send**  `/start`   **To Start A Valid Conversation!!**")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
