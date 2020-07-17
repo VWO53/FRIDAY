@@ -24,7 +24,7 @@ USER_BOT_WARN_ZERO = "`You were spamming my sweet master's inbox, henceforth you
 USER_BOT_NO_WARN = ("`Hello, This is AntiSpam Security Service.You have found your way here to my master,`"
                     f"{DEFAULTUSER}'s `inbox.\n"
                     "Leave your Name,Reason and 10k$ and hopefully you'll get a reply within 2 light years.`\n\n"
-                    " This is Illegal And Regarded As A Crime \n"
+                    "This is Illegal And Regarded As A Crime \n"
                     "**Now You Are In Trouble So Send** `/start`  **To Start A Valid Conversation!!**")
 
 
